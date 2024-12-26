@@ -1,1 +1,17 @@
-ewogICJuYW1lIjogInRlc3QtcHJvamVjdCIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJkZXNjcmlwdGlvbiI6ICJUZXN0IHJlcG9zaXRvcnkgdG8gdmVyaWZ5IEdpdEh1YiBjb25uZWN0aXZpdHkiLAogICJtYWluIjogInNyYy9hcHAuanMiLAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogIm5vZGUgc3JjL2FwcC5qcyIsCiAgICAidGVzdCI6ICJqZXN0IiwKICAgICJidWlsZCI6ICJ3ZWJwYWNrIgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHt9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7fQp9
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
